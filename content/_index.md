@@ -39,27 +39,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: PhD in quantum information
+          company: University of Geneva
+          company_url: 'https://www.unige.ch/gap/qic/'
+          company_logo: org-unige
+          location: Geneva
+          date_start: '2017-10-01'
+          date_end: '2021-10-31'
+          description: Incompatibility of high-dimensional quantum measurements
+        - title: Master in quantum physics
+          company: École normale supérieure
+          company_url: 'https://www.ens.psl.eu/'
+          company_logo: org-ens
+          location: Paris
+          date_start: '2016-09-01'
+          date_end: '2017-07-31'
+        - title: Master in physics
+          company: École polytechnique
+          company_url: 'https://www.polytechnique.edu/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Paris
+          date_start: '2014-09-01'
+          date_end: '2016-08-31'
     design:
       columns: '2'
 # - block: accomplishments

@@ -36,7 +36,7 @@ education:
     - course: PhD in quantum information
       institution: University of Geneva
       year: 2017-2021
-    - course: Master in physics
+    - course: Masters in physics
       institution: École polytechnique, École normale supérieure
       year: 2016-2017
 
