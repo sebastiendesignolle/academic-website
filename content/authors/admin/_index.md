@@ -38,7 +38,7 @@ education:
       year: 2017-2021
     - course: Masters in physics
       institution: École polytechnique, École normale supérieure
-      year: 2016-2017
+      year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,6 +63,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-0303-3556
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@sebastiendesignolle
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a working at the interface between quantum information and convex optimisation.
 {style="text-align: justify;"}
