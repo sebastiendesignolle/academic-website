@@ -15,7 +15,7 @@ tags: []
 categories: []
 date: '2023-01-01'
 lastmod: 2023-05-24T10:51:34+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -38,6 +38,8 @@ publication_types:
 abstract: ''
 publication: '*arXiv:2302.04721*'
 links:
+- name: Blog
+  url: https://www.pokutta.com/blog/research/2023/05/05/BellPolytopesFW.html
 - name: arXiv
   url: https://arxiv.org/abs/2302.04721
 ---

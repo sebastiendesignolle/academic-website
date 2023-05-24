@@ -164,21 +164,20 @@ sections:
 #       {{< gallery album="demo" >}}
 #   design:
 #     columns: '1'
-# - block: collection
-#   id: featured
-#   content:
-#     title: Publications
-#     filters:
-#       folders:
-#         - publication
-#       featured_only: true
-#   design:
-#     columns: '2'
-#     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     content:
-      title: Publications
-      text: Quickly discover relevant content by [filtering publications](./publication/).
+      title: Other publications
       filters:
         folders:
           - publication
@@ -206,8 +205,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: firstname.lastname@gmail.com
       # Contact (add or remove contact options as necessary)
 #     email: test@example.org
 #     phone: 888 888 88 88

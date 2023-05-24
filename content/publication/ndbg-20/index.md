@@ -34,7 +34,7 @@ publishDate: '2023-05-24T09:12:09.051116Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv*'
+publication: '*arXiv:2003.12553*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2003.12553

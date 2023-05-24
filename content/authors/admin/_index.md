@@ -48,9 +48,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: arxiv
-    icon_pack: ai
-    link: https://arxiv.org/search/quant-ph?searchtype=author&query=Designolle%2C+S
   - icon: github
     icon_pack: fab
     link: https://github.com/sebastiendesignolle

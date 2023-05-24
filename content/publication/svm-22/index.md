@@ -38,7 +38,7 @@ publishDate: '2023-05-24T09:12:13.551511Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv*'
+publication: '*arXiv:2202.09294*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2202.09294
