@@ -37,6 +37,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*arXiv:2302.04721*'
+doi: 10.1103/PhysRevResearch.5.043059
 links:
 - name: Blog
   url: https://www.pokutta.com/blog/research/2023/05/05/BellPolytopesFW.html
