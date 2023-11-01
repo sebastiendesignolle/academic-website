@@ -1,15 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Improved local models and new Bell inequalities via Frank-Wolfe algorithms
+title: Symmetric multipartite Bell inequalities via Frank-Wolfe algorithms
 subtitle: ''
 summary: ''
 authors:
 - Sébastien Designolle
-- Gabriele Iommazzo
-- Mathieu Besançon
-- Sebastian Knebel
-- Patrick Gelß
+- Tamás Vértesi
 - Sebastian Pokutta
 tags: []
 categories: []
@@ -36,11 +33,8 @@ publishDate: '2023-05-24T09:12:15.542083Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. Res. **5***'
-doi: 10.1103/PhysRevResearch.5.043059
+publication: '*arXiv:2310.20677*'
 links:
-- name: Blog
-  url: https://www.pokutta.com/blog/research/2023/05/05/BellPolytopesFW.html
 - name: arXiv
-  url: https://arxiv.org/abs/2302.04721
+  url: https://arxiv.org/abs/2310.20677
 ---
