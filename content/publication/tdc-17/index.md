@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantification of multidimensional entanglement stored in a crystal
+title: 'Quantification of multidimensional entanglement stored in a crystal'
 subtitle: ''
 summary: ''
 authors:

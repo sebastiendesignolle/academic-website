@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Algorithmic construction of local models for entangled quantum states: optimization
-  for two-qubit states'
+title: 'Algorithmic construction of local models for entangled quantum states: optimization for two-qubit states'
 subtitle: ''
 summary: ''
 authors:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Robust genuine high-dimensional steering with many measurements
+title: 'Robust genuine high-dimensional steering with many measurements'
 subtitle: ''
 summary: ''
 authors:

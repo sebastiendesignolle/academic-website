@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantifying measurement incompatibility of mutually unbiased bases
+title: 'Quantifying measurement incompatibility of mutually unbiased bases'
 subtitle: ''
 summary: ''
 authors:

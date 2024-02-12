@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantum measurement incompatibility in subspaces
+title: 'Quantum measurement incompatibility in subspaces'
 subtitle: ''
 summary: ''
 authors:

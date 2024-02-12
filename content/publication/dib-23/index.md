@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Improved local models and new Bell inequalities via Frank-Wolfe algorithms
+title: 'Improved local models and new Bell inequalities via Frank-Wolfe algorithms'
 subtitle: ''
 summary: ''
 authors:

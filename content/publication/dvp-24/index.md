@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Symmetric multipartite Bell inequalities via Frank-Wolfe algorithms
+title: 'Symmetric multipartite Bell inequalities via Frank-Wolfe algorithms'
 subtitle: ''
 summary: ''
 authors:

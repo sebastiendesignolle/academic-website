@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantum entanglement in the triangle network
+title: 'Quantum entanglement in the triangle network'
 subtitle: ''
 summary: ''
 authors:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Naimark dilations of qubit POVMs and joint measurements
+title: 'Naimark dilations of qubit POVMs and joint measurements'
 subtitle: ''
 summary: ''
 authors:

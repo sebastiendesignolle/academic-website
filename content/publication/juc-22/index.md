@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Equivalence between simulability of high-dimensional measurements and high-dimensional
-  steering
+title: 'Equivalence between simulability of high-dimensional measurements and high-dimensional steering'
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +14,7 @@ authors:
 - Nicolas Brunner
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2023-05-31'
 lastmod: 2023-05-24T10:51:33+02:00
 featured: false
 draft: false
@@ -38,7 +37,8 @@ publishDate: '2023-05-24T09:12:14.546054Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv:2207.04080*'
+publication: '*Phys. Rev. A **107***'
+doi: 10.1103/PhysRevA.107.052425
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2207.04080

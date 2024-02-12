@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Noise-robust and loss-tolerant quantum steering with qudits
+title: 'Quick quantum steering: overcoming loss and noise with qudits'
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ authors:
 - Mehul Malik
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2022-11-30'
 lastmod: 2023-05-24T10:51:32+02:00
 featured: false
 draft: false
@@ -38,7 +38,8 @@ publishDate: '2023-05-24T09:12:13.551511Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv:2202.09294*'
+publication: '*Phys. Rev. X **12***'
+doi: 10.1103/PhysRevX.12.041023
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2202.09294

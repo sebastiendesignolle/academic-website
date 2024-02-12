@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Unbounded sequence of observers exhibiting Einstein-Podolsky-Rosen steering
+title: 'Unbounded sequence of observers exhibiting Einstein-Podolsky-Rosen steering'
 subtitle: ''
 summary: ''
 authors:

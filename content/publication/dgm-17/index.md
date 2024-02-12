@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Genuinely entangled symmetric states with no $N$-partite correlations
+title: 'Genuinely entangled symmetric states with no $N$-partite correlations'
 subtitle: ''
 summary: ''
 authors:

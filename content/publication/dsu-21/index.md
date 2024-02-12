@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Genuine high-dimensional quantum steering
+title: 'Genuine high-dimensional quantum steering'
 subtitle: ''
 summary: ''
 authors:

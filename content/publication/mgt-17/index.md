@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantifying photonic high-dimensional entanglement
+title: 'Quantifying photonic high-dimensional entanglement'
 subtitle: ''
 summary: ''
 authors:

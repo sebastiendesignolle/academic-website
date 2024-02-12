@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Experimental relativistic zero-knowledge proofs
+title: 'Experimental relativistic zero-knowledge proofs'
 subtitle: ''
 summary: ''
 authors:

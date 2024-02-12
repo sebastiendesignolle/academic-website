@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Symmetries between measurements in quantum mechanics
+title: 'Symmetries between measurements in quantum mechanics'
 subtitle: ''
 summary: ''
 authors:

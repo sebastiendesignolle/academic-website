@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Simulability of high-dimensional quantum measurements
+title: 'Simulability of high-dimensional quantum measurements'
 subtitle: ''
 summary: ''
 authors:
