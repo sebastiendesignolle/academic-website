@@ -10,7 +10,7 @@ authors:
 - Sebastian Pokutta
 tags: []
 categories: []
-date: '2023-01-01'
+date: '2024-02-07'
 lastmod: 2023-05-24T10:51:34+02:00
 featured: true
 draft: false
@@ -33,7 +33,8 @@ publishDate: '2023-05-24T09:12:15.542083Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv:2310.20677*'
+publication: '*Phys. Rev. A **109***'
+doi: 10.1103/PhysRevA.109.022205
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2310.20677
