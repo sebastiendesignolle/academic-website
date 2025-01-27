@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2024-09-05T09:12:15.542083Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 # publication: '*Phys. Rev. A **109***'
 # doi: 10.1103/PhysRevA.109.022205

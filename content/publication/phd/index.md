@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2023-05-24T09:06:45.822702Z'
 publication_types:
-- '2'
+- '7'
 abstract: ''
 publication: '*PhD thesis*'
 links:

@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-05-24T09:12:09.051116Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: '*arXiv:2003.12553*'
 links:
