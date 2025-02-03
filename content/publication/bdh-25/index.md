@@ -39,7 +39,6 @@ publishDate: '2025-01-27T09:12:15.542083Z'
 publication_types:
 - '3'
 abstract: ''
-publication: '*arXiv:2501.14613*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2501.14613
