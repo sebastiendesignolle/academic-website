@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm Sébastien Designolle, post-doc at the Zuse Institute Berlin.
+I'm Sébastien Designolle, post-doc at the Zuse Institute Berlin and soon moving to the QINFO team in Lyon, where I'll start as an INRIA researcher.
 Before that, I obtained my PhD at the University of Geneva in October 2021, mostly working on incompatibility of quantum measurements, semidefinite programming (SDP), and quantum systems of high although finite dimensions.
 I'm fascinated by symmetric structures arising in real and complex spaces and often try to use them as a first step when exploring the blossoming confusion emerging as soon as we go beyond qubits.
 My main interests are now to use first-order methods for quantum information problems, be it Bell nonlocality or entanglement, but also giant SDP instances arising in this field.
