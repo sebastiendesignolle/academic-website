@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2024-09-05'
-lastmod: 2023-09-05T10:51:34+02:00
+lastmod: 2024-09-05T10:51:34+02:00
 featured: false
 draft: false
 
@@ -35,5 +35,5 @@ publication_types:
 abstract: ''
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2310.20677
+  url: https://arxiv.org/abs/2409.03739
 ---
