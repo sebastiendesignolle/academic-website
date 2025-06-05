@@ -39,6 +39,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoc in convex optimisation
+          company: Zuse Institute Berlin
+          company_url: 'https://www.zib.de/'
+          company_logo: org-zib
+          location: Berlin
+          date_start: '2022-12-01'
+          date_end: '2025-06-30'
         - title: PhD in quantum information
           company: University of Geneva
           company_url: 'https://www.unige.ch/gap/qic/'
@@ -58,7 +65,7 @@ sections:
           company: École polytechnique
           company_url: 'https://www.polytechnique.edu/'
           company_logo: org-x
-          location: Paris
+          location: Palaiseau
           date_start: '2014-09-01'
           date_end: '2016-08-31'
     design:
