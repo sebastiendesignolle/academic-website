@@ -34,10 +34,10 @@ interests:
 education:
   courses:
     - course: PhD in quantum information
-      institution: University of Geneva
+      institution: Geneva
       year: 2017-2021
     - course: Masters in physics
-      institution: École polytechnique, École normale supérieure
+      institution: Paris
       year: 2014-2017
 
 # Social/Academic Networking
